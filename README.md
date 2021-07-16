@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @bankpluto
 - 👀 I’m interested in both frontend and backend
-- 🌱 I’m currently learning backend
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Github for Pomelo
 
 <!---
 bankpluto/bankpluto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
