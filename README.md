@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @bankpluto
 - 👀 I’m interested in both frontend and backend
-# Github for Pomelo
+- Email: suphawith.j@pomelofashion.com
+# Github for Pomelo.
 
 <!---
 bankpluto/bankpluto is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
