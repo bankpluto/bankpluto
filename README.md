@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bankpluto
+- 👋 Hi, I’m @Suphawit_Bank
 - 👀 I’m interested in both frontend and backend
 - Email: suphawith.j@pomelofashion.com
 # Github for Pomelo.
